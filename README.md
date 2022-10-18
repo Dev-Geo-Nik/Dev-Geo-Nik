@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-- 👨‍💻 All of my projects are available at [www.georgenikolaidis.com](www.georgenikolaidis.com)
+- 👨‍💻 All of my projects are available  https://georgenikolaidis.com/
 
 - 💬 Ask me about **react,typescript,php,laravel,mysql,sql,gatsby,css,tailwind**
 
