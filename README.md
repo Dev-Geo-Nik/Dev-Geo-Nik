@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm George Nikolaidis</h1>
-<h3 align="left">I'm very interested in technology and web development is my passion.I'm a curious guy who likes learning new stuff and try to be better every day.I'm interested to work on ambitious projects with positive people solving real world problems.</h3>
+<h3 align="left">I'm fascinated by technology, and web development is one of my passions.I'm a curious guy who enjoys learning new things and striving to improve every day.I want to work on ambitious projects with positive people that solve real-world problems. </h3>
 
 
 <h3 align="left">Open to work </h3>
