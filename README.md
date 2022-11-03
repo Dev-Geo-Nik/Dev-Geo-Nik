@@ -15,4 +15,4 @@
 
 - 💬 Ask me about **react,typescript,php,laravel,mysql,sql,gatsby,css,tailwind**
 
-- 📫 How to reach me **https://www.linkedin.com/in/george-nikolaidis-61b040211/**
+- 📫 How to reach me **https://www.linkedin.com/in/dev-george-nikolaidis/**
